@@ -8,6 +8,7 @@ public class _01Multiple {
                 System.out.println(i + "x" + j + "=" + (i * j));
             }
             System.out.println();
+            System.out.println("하이");
         }
 
     }}
