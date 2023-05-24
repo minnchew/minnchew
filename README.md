@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Minnnchew%20Kim&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=babypink&height=300&section=header&text=Minnnchew%20Kim&fontSize=90)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=ENJOY+MY+GITHUB!;HAVE+A+MINJU+TIME!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
@@ -24,6 +24,6 @@
 </div>
 
 
-![geodo2's GitHub stats](https://github-readme-stats.vercel.app/api?username=geodo2&show_icons=true&theme=radical)
-  <br>![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geodo2)</br>
-  <br>![visitor count](https://profile-counter.glitch.me/geodo2/count.svg)</br>
+![geodo2's GitHub stats](https://github-readme-stats.vercel.app/api?username=minnchew&show_icons=true&theme=radical)
+  <br>![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minnchew)</br>
+  <br>![visitor count](https://profile-counter.glitch.me/minnchew/count.svg)</br>
